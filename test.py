@@ -7,6 +7,15 @@ def add(x, y):
     return x + y
 
 
+def subtract(x, y):
+    return x - y
+
+
 print(add(5, 5))
 
-print ("lets get some achievments!")
+print(add(6, 5))
+
+
+print(subtract(6, 5))
+
+print("we have two functions")
