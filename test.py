@@ -1,10 +1,10 @@
-print ("test file")
-another_change = "yay"
-print (another_change)
-#function adding two numbers
-def test_function (x,y):
-    z = x+y
-    return z
+line = "hello from this line"
+
+print(line)
 
 
-   
+def add(x, y):
+    return x + y
+
+
+print(add(5, 5))
