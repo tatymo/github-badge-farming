@@ -1,4 +1,10 @@
 line = "hello from this line"
 
 print(line)
-print ("test file")
+
+
+def add(x, y):
+    return x + y
+
+
+print(add(5, 5))
