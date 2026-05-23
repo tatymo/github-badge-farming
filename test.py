@@ -17,3 +17,5 @@ print(add(6, 5))
 
 
 print(subtract(6, 5))
+
+print("we have two functions")
